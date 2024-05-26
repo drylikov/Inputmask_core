@@ -1,4 +1,4 @@
-# inputmask-core [![Build Status](https://secure.travis-ci.org/insin/inputmask-core.png)](http://travis-ci.org/insin/inputmask-core)
+# Inputmask_core
 
 A standalone input mask implementation, which is independent of any GUI.
 
@@ -319,5 +319,3 @@ A value to be applied to the new pattern - defaults to `''`.
 ##### `selection` : `{start: number; end: number}`
 
 Selection after the new pattern is applied - defaults to `{start: 0, end: 0}`.
-
-## MIT Licensed
