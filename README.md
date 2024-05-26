@@ -1,4 +1,4 @@
-# Inputmask_core
+# Inputmask core
 
 A standalone input mask implementation, which is independent of any GUI.
 
