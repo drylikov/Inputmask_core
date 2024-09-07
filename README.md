@@ -15,7 +15,7 @@ npm install inputmask_core
 Importing and creating an instance:
 
 ```javascript
-var InputMask = require('inputmask-core')
+var InputMask = require('inputmask_core')
 
 var mask = new InputMask({pattern: '11/11/1111'})
 ```
