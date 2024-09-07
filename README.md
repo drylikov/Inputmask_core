@@ -7,7 +7,7 @@ A standalone input mask implementation, which is independent of any GUI.
 ## Install
 
 ```
-npm install inputmask-core
+npm install inputmask_core
 ```
 
 ## Usage
